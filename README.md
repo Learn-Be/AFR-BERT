@@ -2,6 +2,6 @@
 In this paper, we propose the attention-based mechanism of feature relevance fusion multimodal sentiment analysis model (AFR-BERT).
 # Usage
 1、Install all required library
-'''
+'''javascript
 pip install -r requirements.txt
 '''
