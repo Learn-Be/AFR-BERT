@@ -3,3 +3,5 @@ In this paper, we propose the attention-based mechanism of feature relevance fus
 # Usage
 ## 1、Install all required library
 pip install -r requirements.txt
+## 2、Get the pre-trained BERT model and modify the --bert_model in run_classifier.py
+https://drive.google.com/file/d/1dKSzsgXORN7WVaJJYvNzqFPCQbn-aJcb/view?usp=sharing
